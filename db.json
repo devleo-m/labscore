@@ -1,0 +1,17 @@
+{
+    "alunos": 
+    [
+      {
+        "nome": "Fulano de tal",
+        "serie": "1º ano"
+      },
+      {
+        "nome": "Ciclano de tal",
+        "serie": "2º ano"
+      },
+      {
+        "nome": "Beltrano de tal",
+        "serie": "3º ano"
+      }
+    ]
+}
